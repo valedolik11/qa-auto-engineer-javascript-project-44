@@ -5,6 +5,7 @@
     "author": "Makarevich MS",
     "type": "module",
     "dependencies": {
+        "gradlew": "^0.0.1-security",
         "lint": "^1.1.2",
         "npm": "^10.2.0",
         "nvm": "^0.0.4",
